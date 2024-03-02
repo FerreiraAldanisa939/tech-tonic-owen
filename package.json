@@ -1,0 +1,26 @@
+{
+  "name": "tech-tonic-owen",
+  "description": "tech-tonic-owen",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/FerreiraAldanisa939",
+  "repository": {
+    "url": "https://github.com/FerreiraAldanisa939/tech-tonic-owen"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "tonic",
+    "tech",
+    "project"
+  ],
+  "author": "FerreiraAldanisa939",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
